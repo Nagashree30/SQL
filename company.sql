@@ -30,4 +30,4 @@ insert into company.emp values('7934', 'MILLER', 'CLERK', '7728', '2000-01-21', 
 update company.emp set sal=2500 where empno=7000
 
 
-select
+
